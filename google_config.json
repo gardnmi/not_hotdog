@@ -1,0 +1,16 @@
+{
+    "Records": [
+        {
+            "keywords": "hotdog",
+            "limit": 100,
+            "output_directory":"images",
+            "image_directory":"hotdog"
+        },
+        {
+            "keywords": "random picture",
+            "limit": 100,
+            "output_directory":"images",
+            "image_directory":"not_hotdog"
+        }
+    ]
+}
